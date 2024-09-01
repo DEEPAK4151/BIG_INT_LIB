@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KDEEPAK
+- 👋 Hi, I’m @DEEPAK
 - 👀 I’m interested in .sports programming and web developement ..
 - 🌱 I’m currently learning .web developement..
 - 💞️ I’m looking to collaborate on .web dev projects..
